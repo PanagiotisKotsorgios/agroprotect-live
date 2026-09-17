@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/agroprotect-live/static/css/main.3f982273.css",
-    "main.js": "/agroprotect-live/static/js/main.6a8d7c16.js",
+    "main.js": "/agroprotect-live/static/js/main.dba7f399.js",
     "index.html": "/agroprotect-live/index.html",
     "main.3f982273.css.map": "/agroprotect-live/static/css/main.3f982273.css.map",
-    "main.6a8d7c16.js.map": "/agroprotect-live/static/js/main.6a8d7c16.js.map"
+    "main.dba7f399.js.map": "/agroprotect-live/static/js/main.dba7f399.js.map"
   },
   "entrypoints": [
     "static/css/main.3f982273.css",
-    "static/js/main.6a8d7c16.js"
+    "static/js/main.dba7f399.js"
   ]
 }
